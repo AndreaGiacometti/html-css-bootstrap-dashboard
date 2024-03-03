@@ -1,3 +1,16 @@
 .debug .row > * {
     border: solid 2px cornflowerblue;
 }
+
+
+td{
+    font-size: 13px;
+}
+
+svg{
+    width: 25px;
+    height: 25px;
+    border: 2px solid grey;
+    padding: 3px;
+    border-radius: 5px;
+}
